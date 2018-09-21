@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails rails-hello-world-lab-houston-web-082718: production" uuid="0c754669-fa8a-4dbb-bdc8-8b4e9b2e83df">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <auth-required>false</auth-required>
+    </data-source>
+    <data-source name="Rails rails-hello-world-lab-houston-web-082718: development" uuid="6ee7378d-0d78-4f3a-9534-c3cfcc77f941">
+      <database-info product="SQLite" version="3.20.1" jdbc-version="2.1" driver-name="SQLite JDBC" driver-version="3.20.1.1" family="SQLITE" exact-version="3.20.1" />
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <auth-required>false</auth-required>
+      <introspection-schemas>*:@</introspection-schemas>
+    </data-source>
+    <data-source name="Rails rails-hello-world-lab-houston-web-082718: test" uuid="7e03784e-982e-475c-8a4b-ec7a325ef8e1">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <auth-required>false</auth-required>
+    </data-source>
+  </component>
+</project>
